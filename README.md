@@ -14,7 +14,7 @@ I specialize in designing and shipping high-performance async APIs, RAG pipeline
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React Badge](https://img.shields.io-React-61DAFB?logo=react&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 
 
 
