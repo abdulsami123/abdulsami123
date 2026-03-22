@@ -46,6 +46,9 @@ I specialize in designing and shipping high-performance async APIs, RAG pipeline
 
 ## 🚀 Featured Projects
 
+### 🤖 [Notion Assistant](https://github.com/abdulsami123/Notion-Assistant)
+A full-stack AI-powered revision assistant that syncs with your Notion workspace, stores notes as semantic embeddings, and lets you query and review your knowledge through a conversational interface.
+
 ### 🎥 [VideoTranscription](https://github.com/abdulsami123/VideoTranscription)
 Multi-participant video dialogue extraction system — automatically identifies and separates speakers from video recordings.
 
