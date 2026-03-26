@@ -68,7 +68,7 @@ JavaScript-based dynamic resume builder application.
 
 ## 📈 GitHub Stats
 
-![Abdul Sami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulsami123&show_icons=true&theme=default&hide_border=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsami123&layout=compact&theme=default&hide_border=true)
 
 ---
