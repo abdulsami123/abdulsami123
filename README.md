@@ -52,17 +52,13 @@ A full-stack AI-powered revision assistant that syncs with your Notion workspace
 ### 🎥 [VideoTranscription](https://github.com/abdulsami123/VideoTranscription)
 Multi-participant video dialogue extraction system — automatically identifies and separates speakers from video recordings.
 
-### 🤖 [Youtube Assistant (LangChain)](https://github.com/abdulsami123/Youtube-Assistant-LangChain)
-LangChain-powered Q&A assistant over YouTube video transcripts.
-
 ### 📧 [Email Reader](https://github.com/abdulsami123/Email-reader)
 Automated email parsing and processing pipeline built in Python.
 
 ### 📊 [dbt Project](https://github.com/abdulsami123/Dbt-project)
 End-to-end ELT pipeline implementation using dbt, Snowflake, and Apache Airflow.
 
-### 📄 [Resume Builder](https://github.com/abdulsami123/Resume-Builder)
-JavaScript-based dynamic resume builder application.
+
 
 ---
 
