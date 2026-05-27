@@ -1,8 +1,8 @@
 # Hi, I'm Abdul Sami 👋
 
-Founding Engineer at **LotSync AI** — building production AI systems where backend engineering meets machine learning.
+Forward Deployed Engineer at **Neogent AI** — building production AI systems.
 
-I specialize in designing and shipping high-performance async APIs, RAG pipelines, vector search, and AI-powered automotive intelligence systems. I move fast across the full stack from data modeling to LLM integration.
+I specialize in designing and shipping high-performance async APIs, RAG pipelines, vector search, and AI-powered intelligent systems. I move fast across the full stack from data modeling to LLM integration.
 
 ---
 
