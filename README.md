@@ -1,6 +1,6 @@
 # Hi, I'm Abdul Sami 👋
 
-Forward Deployed Engineer at **Neogent AI** — building production AI systems.
+Forward Deployed Engineer — building production AI systems.
 
 I specialize in designing and shipping high-performance async APIs, RAG pipelines, vector search, and AI-powered intelligent systems. I move fast across the full stack from data modeling to LLM integration.
 
